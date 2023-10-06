@@ -1,0 +1,131 @@
+<! DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title> my profile</title>
+        <ol type="a">
+       <li><a href="https://muni.ac.ug/">muni university</a></li>
+        <li><a href="MY PROFILE">Rayan</a></li>
+        
+        </ol>
+    </head>
+    <style>
+        h1,h2,h3{
+            color: blue;
+            background-color: rgb(215, 250, 217);
+            border: 3px double black;
+            padding: oooo;
+            font-weight:bolder ;
+        }
+        p{
+            font-style: oblique;
+            color: red;
+        }
+        h4,h5,h6{
+            background-color: bisque;
+            border: 3px dotted rgb(255, 47, 0);
+             padding: 3px; 
+             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+             font-weight: bolder;
+        }
+        table ,th,td{
+            border: 3px solid black;
+            border-collapse: collapse;
+
+
+        }
+        td{
+            padding: 10px;
+        }
+        th{
+        text-align: left;
+        }
+        img{
+            background-color: white;
+            border: 10px solid red;
+        }
+
+        body{
+            background-color: aqua;
+            background-image: -moz-repeating-radial-gradient(red);
+            border: 10px;
+            margin: 20px 20px 20px 20px;
+        }
+        div{
+            background-color: beige;
+            font-size: large;
+            
+            margin:20px;
+            border: solid;
+            background-color: antiquewhite;
+        }
+        div1{
+            background-color: rgb(235, 148, 17);
+            border: 4px 
+            dashed black;
+            margin: 3px;
+            padding: 4px;
+        }
+        </style>
+        <body>
+            
+        <h1>MY PROFILE</h1>
+        <div>
+            <div1>
+        <img src="nyina.jpg" width="200" height="200" alt="my image">
+            </div1>
+        <ul>
+        <li>NAMAE  : RAYAN KAMAL</li>
+        <li>ADRESS :PAJULU SUBCOUNTY,ONIALEKU CELL,ARUA CITY</li>
+        <li>CONTACT:07826777</li>
+        <li>EMAIL   :rayankamal522@gmail</li>
+        </ul>
+            </div>
+        <h2>EDUCTIONAL QUALIFICATION</h2>
+        <table>
+            <tr>
+                <th>SCHOOL NAME</th>
+                <th>MERIT</th>
+                <th>YEAR</th>
+            </tr>
+            <tr>
+                <td>MENGO SENIOR SCHOOL</td>
+                <td>UGANDA ADVANCED CERTIFICATE OF EDUCATION</td>
+                <td>2022</td>
+            </tr>
+            <tr>
+                <td>KIBULI SECONDARY SCHOOL</td>
+                <td>UGANDA CERTIFICATE OF EDUCATION</td>
+                <td>2018</td>
+            </tr>
+            <tr>
+                <td>MGOGO JUNIOR SCHOOL</td>
+                <td>PRIMARY LEAVING EXAMINATION</td>
+                <td>2023</td>
+            </tr>
+        </table>
+        
+        <h3>MY HOBBIES AND INTERESTS</h3> 
+        <ol type="1">
+            <li>FOOTBALL</li>
+            <li>CHESS</li>
+            <li>ARTIST</li>
+
+        </ol>
+        
+        <h4>MY SKILLS</h4>
+        <ul>
+            <li>COMPUTER REPAIR AND MAINTENENCE</li>
+            <li>ART ANB CRAFTING</li>
+            <li>WELDING</li>
+        </ul>
+        
+        <h5>MY PROJECTS</h5>
+        <P>I'm setting up an application which manages rental client
+            in commercial buildings and estates currently
+        </P>
+        <p>Working on improving troubleshooting using sosphicated gaghets</p>
+        
+        </body>
+        
